@@ -29,7 +29,7 @@ Dr. Hiba Baroud is an assistant professor in the Department of Civil and Environ
 
 **Graduate Student Speaker: Kelsea Best**
 
-![kelsea](images/kelsea.jpg)
+![kelsea](images/kelsea.JPG)
 
 Kelsea Best is a PhD candidate in Earth and Environmental Science at Vanderbilt University in Nashville, TN. Her research focuses on using quantitative methods to study environmental and climate migration in coastal Bangladesh. 
 
