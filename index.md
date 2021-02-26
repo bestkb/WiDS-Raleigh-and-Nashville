@@ -31,13 +31,16 @@ Dr. Hiba Baroud is an assistant professor in the Department of Civil and Environ
 
 ![kelsea](images/kelsea.JPG)
 
-Kelsea Best is a PhD candidate in Earth and Environmental Science at Vanderbilt University in Nashville, TN. Her research focuses on using quantitative methods to study environmental and climate migration in coastal Bangladesh. 
+Kelsea Best is a doctoral candidate in Earth and Environmental Science at Vanderbilt University in Nashville, TN. Her research focuses on using quantitative methods to study environmental and climate migration in coastal Bangladesh. 
 
 **Graduate Student Speaker: Zeynab Jouzi**
 
 ![zeynab](images/zeynab.jpg)
 
-**Undergraduate Student Speaker: ** 
+Zeynab Jouzi is a doctoral candidate at North Carolina State University, College of Natural Resources in Raleigh, NC. She is passionate about global sustainability challenges such as food security, and her doctoral research investigates the association between natural resources and food security in Sub-Saharan Africa using geospatial analytics.
+
+
+**Undergraduate Student Speaker:** 
 
 
 
