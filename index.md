@@ -12,12 +12,13 @@
 Please join us as we explore topics of data science in coupled human and natural systems and highlight the work of exceptional women data scientists in this field. 
 
 
-This is a virtual event. Please register here. 
+This is a virtual event. Please register [here](https://www.eventbrite.com/e/women-in-data-science-wids-raleigh-and-nashville-tickets-143346759015). 
 
 
 ## Agenda
 
-The full agenda for this event is available here. 
+The full agenda for this event is available [here](./agenda.pdf) 
+
 
 ## Speakers
 
