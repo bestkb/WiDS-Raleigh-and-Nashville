@@ -1,7 +1,7 @@
 # WiDS Raleigh and Nashville
 
 
-![logo](images/logos/wids-2-color-1line.jpg)
+![logo](images/logos/wids-2color-1line.jpg)
 
 
 ## Data Science in Coupled Human and Natural Systems
