@@ -41,7 +41,7 @@ Kelsea Best is a doctoral candidate in Earth and Environmental Science at Vander
 Zeynab Jouzi is a doctoral candidate at North Carolina State University, College of Natural Resources in Raleigh, NC. She is passionate about global sustainability challenges such as food security, and her doctoral research investigates the association between natural resources and food security in Sub-Saharan Africa using geospatial analytics.
 
 
-**Undergraduate Student Speaker:** 
+**Undergraduate Student Speaker: Renae Marshall** 
 
 
 
