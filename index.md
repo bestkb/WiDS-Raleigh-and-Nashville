@@ -43,6 +43,9 @@ Zeynab Jouzi is a doctoral candidate at North Carolina State University, College
 
 **Undergraduate Student Speaker: Renae Marshall** 
 
+![renae](images/renae.jpg)
+
+Renae Marshall is a senior Honors student in the Environmental Studies and Design programs at CU Boulder. She is interested in helping reduce political polarization surrounding environmental issues and is currently investigating bipartisan climate solutions in the U.S. through a quantitative lens.
 
 
 ## Note About This Event
